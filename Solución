@@ -1,0 +1,6 @@
+touch 01-RUN.sh
+nano 01-RUN.sh
+#!/bin/bash
+echo hola mundo
+cd /home/alljm
+sudo ./01-RUN.sh
