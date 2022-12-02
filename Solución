@@ -2,5 +2,5 @@ touch 01-RUN.sh
 nano 01-RUN.sh
 #!/bin/bash
 echo hola mundo
-cd /home/alljm
+cd /home/usuario
 sudo ./01-RUN.sh
